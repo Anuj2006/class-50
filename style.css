@@ -1,0 +1,21 @@
+* {
+    border: solid
+}
+
+.header{
+    background-color:cyan;
+display: flex;
+justify-content: space-between;
+}
+.grid{
+    background-color:rgb(240, 27, 12);
+    display:flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+
+}
+.footer{
+    background-color: firebrick;
+    display:flex;
+    justify-content:flex-end ;
+}
